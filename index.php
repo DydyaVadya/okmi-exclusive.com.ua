@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row justify-content-center">
                         <div class="col-md-7 col-sm-6 col-10">
                             <div class="row">
-                                <h2 class="main-date light-text align-center">8 сентября 2018 года</h2>
+                                <h2 class="main-date light-text align-center">С 14.09.2019</h2>
                                 <h1 class="main-title">Фитнес тур</h1>
                                 <p class="main-description">в солнечную Грецию 3 в 1</p>
                                 <div  class="video-block">
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row justify-content-center">
                         <div class="col-md-7 col-sm-6 col-8">
                             <div class="row">
-                                <h2>Фитнес тур </br> «Путешествуй за мечтой» </br> стартует 8 сентября</h2>
+                                <h2>Фитнес тур </br> «Путешествие за мечтой» </br> стартует С 14.09.2019</h2>
                                 <div class="col-12">
                                     <div class="row align-items-center">
                                         <p class="price-text">Его длительность – 7 дней </br> Стоимость –755 евро с человека </p>
@@ -177,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <ul class="list-style column-2">
                                         <li>Авиаперелет;</li>
                                         <li>Проживание 7 дней;</li>
-                                        <li>Питание завтрак+ужин;</li>
+                                        <li>Питание "все включено";</li>
                                         <li>Трансфер;</li>
                                         <li>Страховка;</li>
                                         <li>Тренинговая программа и семинары;</li>
@@ -273,7 +273,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         
                                     <h1>Итак программа Фитнес тура в Греции</h1>
                                     <div class="program__text primary-text align-center">
-                                        Даты тура: 08.09.2018 – 15.09.2018 (7 дней)
+                                        Дата тура: С 14.09.2019 (7 дней)
                                     </div>
                                 
                                     <ol class="list-days list-fadeout">
