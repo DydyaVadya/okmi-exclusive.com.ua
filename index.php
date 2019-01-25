@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </form>
                                 </div>
                                 <div class="promo-sticker">
-                                    <h3>755 евро</h3>
+                                    <h3>890 евро</h3>
                                     <!--<p>при бронировании до 14 марта!</p>-->
                                 </div>
                             </div>
@@ -165,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h2>Фитнес тур </br> «Путешествие за мечтой» </br> стартует С 14.09.2019</h2>
                                 <div class="col-12">
                                     <div class="row align-items-center">
-                                        <p class="price-text">Его длительность – 7 дней </br> Стоимость –755 евро с человека </p>
+                                        <p class="price-text">Его длительность – 7 дней </br> Стоимость –890 евро с человека </p>
                                         <div class="promo-sticker">
-                                            <h3>755 евро</h3>
+                                            <h3>890 евро</h3>
                                             <!--<p>при бронировании до 14 марта!</p>-->
                                         </div>
                                     </div>
@@ -467,7 +467,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                <h1 class="light-text">Успейте зарегистрироваться сейчас</h1>
                                <div class="end__text primary-text">чтоб в сентябре наслаждаться солнцем и привести свое тело в порядок!</div>
                                <div class="promo-sticker">
-                                    <h3>755 евро</h3>
+                                    <h3>890 евро</h3>
                                     <!--<p>при бронировании до 14 марта!</p>-->
                                 </div>
                             </div>
