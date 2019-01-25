@@ -549,6 +549,7 @@ h1 {
   margin: 0;
   line-height: 1.2em;
   text-align: center;
+  margin-top: 85px;
 }
 @media (max-width: 991px) {
   h1 {
