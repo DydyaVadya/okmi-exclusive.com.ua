@@ -165,7 +165,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h2>Фитнес тур </br> «Путешествие за мечтой» </br> стартует С 14.09.2019</h2>
                                 <div class="col-12">
                                     <div class="row align-items-center">
-                                        <p class="price-text">Его длительность – 7 дней </br> Стоимость –890 евро с человека </p>
+                                        <p class="price-text">Его длительность – 7 ночей </br> Стоимость –890 евро с человека </p>
                                         <div class="promo-sticker">
                                             <h3>890 евро</h3>
                                             <!--<p>при бронировании до 14 марта!</p>-->
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h4 class="light-border-block__title">В стоимость входит:</h4>
                                     <ul class="list-style column-2">
                                         <li>Авиаперелет;</li>
-                                        <li>Проживание 7 дней;</li>
+                                        <li>Проживание 7 ночей;</li>
                                         <li>Питание "все включено";</li>
                                         <li>Трансфер;</li>
                                         <li>Страховка;</li>
@@ -273,7 +273,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         
                                     <h1>Итак программа Фитнес тура в Греции</h1>
                                     <div class="program__text primary-text align-center">
-                                        Дата тура: С 14.09.2019 (7 дней)
+                                        Дата тура: С 14.09.2019 (7 ночей)
                                     </div>
                                 
                                     <ol class="list-days list-fadeout">
