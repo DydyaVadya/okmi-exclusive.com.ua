@@ -501,9 +501,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="col d-flex align-items-center justify-content-end">
                                 <p>Подпишитесь на новости:</p>
                                 <ul class="social-menu">
-                                    <li><a href="https://www.instagram.com/okmi_tour/"><span class="icon-instagram"></span></a></li>
-                                    <li><a href="https://www.facebook.com/okmitour/"><span class="icon-facebook-f"></span></a></li>
-                                    <li><a href="https://t.me/okmi_tour"><span class="icon-send"></span></a></li>
+                                    <li class="social_size_mobile_footer"><a href="https://www.instagram.com/okmi_tour/"><span class="icon-instagram"></span></a></li>
+                                    <li class="social_size_mobile_footer"><a href="https://www.facebook.com/okmitour/"><span class="icon-facebook-f"></span></a></li>
+                                    <li class="social_size_mobile_footer"><a href="https://t.me/okmi_tour"><span class="icon-send"></span></a></li>
                                 </ul>
                             </div>
                         </div>

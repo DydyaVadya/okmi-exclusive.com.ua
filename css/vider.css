@@ -18,5 +18,11 @@
     .form-block-mobile-footer {
         margin-bottom: 100px;
     }
+    .social_size_mobile_footer {
+        font-size: 24px;
+        color: dodgerblue;
+        list-style: none;
+        line-height: initial;
+    }
 
 }
