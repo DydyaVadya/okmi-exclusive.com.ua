@@ -23,6 +23,34 @@
         color: dodgerblue;
         list-style: none;
         line-height: initial;
-    }
+        margin-left: 13px;
 
+    }
+    .logo-mobile-footer img {
+        position: relative;
+       bottom: 19px;
+    }
+    .mobile-social-menu {
+        display: flex;
+        padding: 0;
+    }
+   .description-social-mobile-footer {
+    display: flex;
+    flex-basis: 38%;
+    flex-wrap: wrap;
+    box-sizing: content-box;
+}
+    .trainers__info {
+        line-height: 25px;
+    }
+    .light-border-block {
+        line-height: 25px;
+    }
+    .light-border-block__title {
+        width: auto;
+        position: absolute;
+        padding: 0 .5em;
+        background: linear-gradient(69deg,#F9FBFF,#f1f5f9);
+        top: -2em;
+    }
 }

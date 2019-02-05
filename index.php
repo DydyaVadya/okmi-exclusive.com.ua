@@ -495,12 +495,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <footer>
                     <div class="container">
                         <div class="row justify-content-between">
-                            <div class="logo col-lg-2 col-md-3 col-4">
+                            <div class="logo logo-mobile-footer col-lg-2 col-md-3 col-4">
                                 <img src="img/logo.png" alt="logo">
                             </div>
                             <div class="col d-flex align-items-center justify-content-end">
-                                <p>Подпишитесь на новости:</p>
-                                <ul class="social-menu">
+                                <p class="description-social-mobile-footer">Подпишитесь на новости:</p>
+                                <ul class="social-menu mobile-social-menu">
                                     <li class="social_size_mobile_footer"><a href="https://www.instagram.com/okmi_tour/"><span class="icon-instagram"></span></a></li>
                                     <li class="social_size_mobile_footer"><a href="https://www.facebook.com/okmitour/"><span class="icon-facebook-f"></span></a></li>
                                     <li class="social_size_mobile_footer"><a href="https://t.me/okmi_tour"><span class="icon-send"></span></a></li>
