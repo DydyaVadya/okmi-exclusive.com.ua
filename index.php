@@ -18,6 +18,8 @@
         <link rel="stylesheet" href="libs/jquery.fancybox.min.css" type="text/css"/> -->
         <link rel="stylesheet" type="text/css" href="css/libs.min.css">
         <link rel="stylesheet" type="text/css" href="css/style.min.css">
+        <link rel="stylesheet" type="text/css" href="css/vider.css">
+
 
 
         <title>ОкмиТур</title>
@@ -149,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row justify-content-end">
                         <div class="col-md-5 col-sm-6 col-8 ">
                             <h2>Отдых, который изменит отношение к себе и своему телу</h2>
-                            <p>Совместно с ведущим тренером корпорации, Президентом Киевского филиала Тренинговой компании «Всемирные Центры Взаимоотношений (GRC) Украины» Наталией Черныш, лучшим персональным фитнес-тренером Кравченко Вадимом и профессиональным психологом Наталией Кручининой.</p>
+                            <p>Совместно с ведущим тренером корпорации, Президентом Киевского филиала Тренинговой компании «Всемирные Центры Взаимоотношений (GRC) Украины» Наталией Черныш, и лучшим персональным фитнес-тренером Кравченко Вадимом.</p>
                            <!--  <p>Персональный тренер Вадим Кравченко совместно с Наталией Черныш организовывают 11 дневный фитнес тур в Солнечную Грецию, где вы сможете не только насладиться теплым морем, но и подтянуть тело, получить знания в области диетологии, а также посетить лекции личностного роста.</p> -->
                         </div>
                     </div>
@@ -310,8 +312,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p class="light-text">Соединяться со своими истинными потребностями, есть только когда по настоящими голодны , не заедать стресс и проблемы, а решать их, принять решение быть стройной и оставаться такой долгие годы.</p>
                             </div> -->
                             <div class="col-sm-5 col-12">
-                             <div class="secendary-title light-text">Вас ждут 5 вечеров в тесной женской компании</div>
-                                <p class="light-text">
+                             <div class="secendary-title">Вас ждут 5 вечеров в тесной женской компании</div>
+                                <p class="">
 1. Женственность. Женское чувство собственного достоинства.
 Вы научитесь больше понимать себя, свои чувства, свои сильные стороны, свою женственность.
 
@@ -474,7 +476,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        </div>
                        <div class="col-md-5 col-sm-6 col-8">
                            <div class="row">
-                               <div class="form-block">
+                               <div class="form-block form-block-mobile-footer">
                                     <p>
                                         <span class="form-block__title">Забронируй место сейчас,</span>
                                         <span> пока это не сделал кто-то другой! <!--и получи--></span>

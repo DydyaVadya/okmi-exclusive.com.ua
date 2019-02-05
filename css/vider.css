@@ -1,0 +1,22 @@
+@media screen and (max-width: 576px) {
+    h3 {
+         font-size: 2.4em;
+        margin: 6px;
+    }
+    .end .promo-sticker {
+        margin-top: -2em;
+        margin-right: -2em;
+        width: 8.5rem;
+        padding: .5em;
+    }
+    .end .promo-sticker:after {
+        display: none;
+    }
+    .post-slider {
+        overflow: hidden;
+    }
+    .form-block-mobile-footer {
+        margin-bottom: 100px;
+    }
+
+}
